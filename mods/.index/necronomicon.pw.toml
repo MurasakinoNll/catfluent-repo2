@@ -1,0 +1,13 @@
+filename = 'Necronomicon-Fabric-1.4.2.jar'
+name = 'Necronomicon'
+side = 'both'
+
+[download]
+hash = '563eef8154c73e099012f58f1b12a011e9d2b5b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5091307
+project-id = 586157

@@ -1,0 +1,13 @@
+filename = 'endorium-fabric-1.0.8.jar'
+name = 'Endorium'
+side = 'both'
+
+[download]
+hash = 'd4d1a50ad46d03dec392f91847480e7d1dc910ade1420b803269ec0cda700ffcb7c44924f4d4b089c976d129c84d31ce0717f45579c31a431bfd52af185c8fc0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vEAzPrqy/versions/AI5thMOp/endorium-fabric-1.0.8.jar'
+
+[update.modrinth]
+mod-id = 'vEAzPrqy'
+version = 'AI5thMOp'

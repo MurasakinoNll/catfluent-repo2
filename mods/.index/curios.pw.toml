@@ -1,0 +1,13 @@
+filename = 'curios-forge-5.4.5+1.20.1.jar'
+name = 'Curios API'
+side = 'both'
+
+[download]
+hash = '3a8c40777382d4a8d505a71e647daebb20f7624f936024f7fa3fd95867121f6a828b3c2124cf1078bd6082f541f606b2305bd2c1dc98a543317de3386823df6c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vvuO3ImH/versions/RmUMdDtP/curios-forge-5.4.5%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'vvuO3ImH'
+version = 'RmUMdDtP'

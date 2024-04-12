@@ -1,0 +1,13 @@
+filename = 'Raided-1.20.1-0.1.3.jar'
+name = 'Raided'
+side = 'both'
+
+[download]
+hash = 'f3d01297d25ea177c02ec0f2468e7c0d38767a4484d75175d08db148e538890626f4dc15bb74afd708471d64f7d3acab7801b463493d3793fd20c1e4a9dd5075'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9vaHfaHw/versions/SzsM4WgN/Raided-1.20.1-0.1.3.jar'
+
+[update.modrinth]
+mod-id = '9vaHfaHw'
+version = 'SzsM4WgN'
