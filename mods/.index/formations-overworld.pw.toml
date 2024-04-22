@@ -1,0 +1,13 @@
+filename = 'formationsoverworld-1.0.2.jar'
+name = 'Formations Overworld'
+side = 'both'
+
+[download]
+hash = 'cb7a28cde08e68788524f9c0127132638d2f918a90bc7d55454c0c8f3f4cf0f2219bc61100e2f845688e3c2036d665b10c0df3022889f5ed9c6868aabdf24b84'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KX1XC0Oo/versions/BwXBXbwA/formationsoverworld-1.0.2.jar'
+
+[update.modrinth]
+mod-id = 'KX1XC0Oo'
+version = 'BwXBXbwA'

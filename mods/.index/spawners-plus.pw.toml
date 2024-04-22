@@ -1,0 +1,13 @@
+filename = 'spawnersplus-3.0-1.20.1.jar'
+name = 'Spawners+'
+side = 'both'
+
+[download]
+hash = '14cddd8685cf6ba71712120a5b3ad12a0412d80e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5031998
+project-id = 885558

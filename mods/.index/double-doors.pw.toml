@@ -1,0 +1,13 @@
+filename = 'doubledoors-1.20.1-5.4.jar'
+name = 'Double Doors'
+side = 'both'
+
+[download]
+hash = '819b72d852b66b0a6c9a96de384f526fb7f1d927decf9446373836ef1ad8491215c2ca77e0fce106fc5f5d7b49c58ee23ee2a4df54cad09fbd05da13627c4c2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JrvR9OHr/versions/jQ5ZvTEg/doubledoors-1.20.1-5.4.jar'
+
+[update.modrinth]
+mod-id = 'JrvR9OHr'
+version = 'jQ5ZvTEg'

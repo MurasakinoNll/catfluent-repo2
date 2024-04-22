@@ -1,0 +1,13 @@
+filename = 'BoatBreakFix-Universal-1.0.11.jar'
+name = 'Boat Break Fix'
+side = 'both'
+
+[download]
+hash = '558779fce2ac7d1373ab27ba7cec8cd4fe893d30fcc7055fd7b88e8ea81788934d47fb53678165e7e125152f28ea74b275e0ae96fd7d3653aac958d1e1da274a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OVb8ZE5p/versions/O2IGXZu3/BoatBreakFix-Universal-1.0.11.jar'
+
+[update.modrinth]
+mod-id = 'OVb8ZE5p'
+version = 'O2IGXZu3'
