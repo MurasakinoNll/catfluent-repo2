@@ -1,0 +1,13 @@
+filename = 'toofast-fabric-1.20-1.2.0.jar'
+name = 'Too Fast'
+side = 'both'
+
+[download]
+hash = 'f28b24f929ffbf960e096fa0327d0d318cb851b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4628061
+project-id = 550678
