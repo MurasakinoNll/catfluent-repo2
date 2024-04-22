@@ -1,7 +1,7 @@
 {
   "show_icon_only_when_corrupted": true,
   "temporary_corruption_amount_per_stack": 10,
-  "maximum_corruption": 200,
+  "maximum_corruption": 250,
   "maximum_etyr_resistance": 100,
   "e_damageTaken_startingLevel": 10,
   "e_tentacles_startingLevel": 25,
